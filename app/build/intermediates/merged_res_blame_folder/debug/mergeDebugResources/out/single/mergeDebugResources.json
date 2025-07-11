@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_dell_inspiron_15_3520_.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/dell_inspiron_15_3520_.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/mipmap-xhdpi_anhlogo.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/mipmap-xhdpi/anhlogo.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_legion5.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/legion5.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_anhlogo.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/anhlogo.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_m_t_logo_n_gi_n_c_ch_speccheck.jpeg.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/m_t_logo_n_gi_n_c_ch_speccheck.jpeg"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_tuff15.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/tuff15.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_logoface.webp.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/logoface.webp"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_anhnen.jpeg.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/anhnen.jpeg"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/xml_backup_rules.xml.flat",
+        "source": "com.example.deadlinemh.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_zenbook14.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/zenbook14.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.deadlinemh.app-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_vostro14.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/vostro14.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_bannerr.jpg.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/bannerr.jpg"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_xiaoxin14c.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/xiaoxin14c.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_anhhome1.jpg.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/anhhome1.jpg"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_vivo15x.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/vivo15x.png"
+    },
+    {
+        "merged": "com.example.deadlinemh.app-debug-65:/drawable_thinkbookg14.png.flat",
+        "source": "com.example.deadlinemh.app-main-67:/drawable/thinkbookg14.png"
+    }
+]
